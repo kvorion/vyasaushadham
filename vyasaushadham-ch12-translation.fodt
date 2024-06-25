@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2024-06-11T11:58:31.948196308</meta:creation-date><dc:date>2024-06-25T08:21:35.262754428</dc:date><meta:editing-duration>P1DT19H4M45S</meta:editing-duration><meta:editing-cycles>356</meta:editing-cycles><meta:generator>LibreOffice/7.3.7.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="35" meta:paragraph-count="419" meta:word-count="22300" meta:character-count="73915" meta:non-whitespace-character-count="51848"/></office:meta>
+ <office:meta><meta:creation-date>2024-06-11T11:58:31.948196308</meta:creation-date><dc:date>2024-06-25T09:27:07.301296726</dc:date><meta:editing-duration>P1DT19H29M7S</meta:editing-duration><meta:editing-cycles>374</meta:editing-cycles><meta:generator>LibreOffice/7.3.7.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="35" meta:paragraph-count="421" meta:word-count="22554" meta:character-count="74748" meta:non-whitespace-character-count="52428"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">737577</config:config-item>
-   <config:config-item config:name="ViewAreaLeft" config:type="long">429</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">22165</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">739798</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">9675</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">10977</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">10781</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">false</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">10493</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">742530</config:config-item>
-     <config:config-item config:name="VisibleLeft" config:type="long">429</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">737577</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">22592</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">748356</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">19011</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">744788</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">9675</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">739798</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">20650</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">750577</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -88,7 +88,7 @@
    <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">3935328</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3975706</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
@@ -1690,24 +1690,30 @@
    <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-style="italic" officeooo:rsid="0036b76a" style:font-style-asian="italic" style:font-size-complex="11pt" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T207" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-style="normal" style:font-style-asian="normal" style:font-size-complex="11pt"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-style="italic" officeooo:rsid="003caa1a" style:font-style-asian="italic" style:font-size-complex="11pt" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T208" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-style="normal" officeooo:rsid="0036b76a" style:font-style-asian="normal" style:font-size-complex="11pt"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-style="normal" style:font-style-asian="normal" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="T209" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-style="normal" officeooo:rsid="00382f8b" style:font-style-asian="normal" style:font-size-complex="11pt"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-style="normal" officeooo:rsid="0036b76a" style:font-style-asian="normal" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="T210" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-style="normal" officeooo:rsid="00316ac2" style:font-style-asian="normal" style:font-size-complex="11pt"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-style="normal" officeooo:rsid="00382f8b" style:font-style-asian="normal" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="T211" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-style="normal" officeooo:rsid="00221a9f" style:font-style-asian="normal" style:font-size-complex="11pt"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-style="normal" officeooo:rsid="00316ac2" style:font-style-asian="normal" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="T212" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-style="normal" fo:font-weight="bold" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="11pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-style="normal" officeooo:rsid="00221a9f" style:font-style-asian="normal" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="T213" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-style="normal" officeooo:rsid="003caa1a" style:font-style-asian="normal" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="T214" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-style="normal" fo:font-weight="bold" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="11pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T215" style:family="text">
    <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="00316ac2" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="11pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:page-layout style:name="pm1">
@@ -2147,7 +2153,7 @@
    <text:p text:style-name="P162"/>
    <text:p text:style-name="P67">मैत्री भाव – स्वामी रामतीर्थ अमरीका में</text:p>
    <text:p text:style-name="P162"><text:soft-page-break/>स्वामी रामतीर्थ, एक ज्ञानी‌ महात्मा, उन्नीसवीं शताब्दी के उत्तरार्द्ध में हिमालय के टिहरी प्रांत में एक जीवनमुक्त के रूप में संचार करते थे। उनके कुछ भक्तों ने उन्हें अपनी शिक्षा का प्रसार करने के लिए विदेश यात्रा करने के लिए मजबूर किया। इसलिए वे जापान तथा अमरीका गए। उन्होंने विदेश यात्रा में अपने पास एक पैसा भी नहीं रखा! ये आत्मा की स्वतंत्रता है। अब हम ऐसी स्थिति की कल्पना भी नहीं कर सकते।</text:p>
-   <text:p text:style-name="P72"><text:span text:style-name="T208">जब वे साँन-फ़्रां</text:span><text:span text:style-name="T209">सिस्को पहुँचे, और जहाज़ से उतरने का समय आया, तो एक अमरीकी ने उनसे पूछा, “आप कहाँ से हैं?”</text:span></text:p>
+   <text:p text:style-name="P72"><text:span text:style-name="T209">जब वे साँन-फ़्रां</text:span><text:span text:style-name="T210">सिस्को पहुँचे, और जहाज़ से उतरने का समय आया, तो एक अमरीकी ने उनसे पूछा, “आप कहाँ से हैं?”</text:span></text:p>
    <text:p text:style-name="P163">स्वामी जी ने उत्तर दिया, “सारा विश्व राम का है।” (स्वामी जी स्वयं को राम कहकर संबोधित करते थे।)</text:p>
    <text:p text:style-name="P163">उस उत्तर से मोहित होकर अमरीकी के फिर पूछा, “क्या आपके पास कोई सामान नहीं है?”</text:p>
    <text:p text:style-name="P163">“नहीं! राम केवल वही रखता है जिसकी उसे आवश्यकता होती है”, और उन्होंने एक छोटा सा झोला दिखाय।</text:p>
@@ -2159,18 +2165,20 @@
    <text:p text:style-name="P163">यह मैत्री भाव का, ज्ञानी के मित्रता का परम उदाहरण है। जब आप हर कहीं केवल आत्मा को देखते हैं, जहाँ भी जाओ, आप केवल मित्रों को मिलते हैं; आपकी अपनी अंतरात्मा को हर जगह मिलते हैं।</text:p>
    <text:p text:style-name="P163">भागवत में एक मधुर श्लोक है, जिसमे भगवान-कपिल कहते हैं,</text:p>
    <text:p text:style-name="P164"><text:tab/><text:tab/><text:tab/><text:tab/>अथ मां सर्वभूतेषु भूतात्मानं कृतालयम्।</text:p>
-   <text:p text:style-name="P73"><text:span text:style-name="T212"><text:tab/><text:tab/><text:tab/><text:tab/>अर्हयेद्यानमानाभ्यां मैत्र्याभिन्नेन चक्षुषा</text:span><text:span text:style-name="T213">॥</text:span><text:span text:style-name="T210"><text:tab/>श्री.भा.३.२</text:span><text:span text:style-name="T207">९.२७</text:span></text:p>
+   <text:p text:style-name="P73"><text:span text:style-name="T214"><text:tab/><text:tab/><text:tab/><text:tab/>अर्हयेद्यानमानाभ्यां मैत्र्याभिन्नेन चक्षुषा</text:span><text:span text:style-name="T215">॥</text:span><text:span text:style-name="T211"><text:tab/>श्री.भा.३.२</text:span><text:span text:style-name="T208">९.२७</text:span></text:p>
    <text:p text:style-name="P166">स्वार्थ-केन्द्रित जीवन की पृथकता पर विजय प्राप्त करके तथा सभी प्राणियों को मित्र मानकर, उपहार, सम्मान और प्रेम के साथ उनकी सेवा करनी चाहिए, यह समझते हुए कि ऐसी सेवा वास्तव में मेरी की जा रही है, जो सभी प्राणियों में उनके अन्तरतम स्वरूप में निवास करता है।</text:p>
    <text:p text:style-name="P163"/>
-   <text:p text:style-name="P73"><text:span text:style-name="T207">इस भागवत श्लोक में &apos;</text:span><text:span text:style-name="T204">मैत्रेय अभिन्नेन चक्षुषा</text:span><text:span text:style-name="T207">’ पद का प्रयोग किया गया है। </text:span><text:span text:style-name="T204">मैत्री भाव</text:span><text:span text:style-name="T207">--अर्थात मित्रता अथवा समदर्शिता मन की एक सुंदर अवस्था है। जब </text:span><text:span text:style-name="T204">मैत्री भाव</text:span><text:span text:style-name="T207"> होता है, तो व्यक्ति दूसरे को स्वयं के रूप में देखता है। ऐसे संबंध मे एक प्रकार की सुलभता होती है। व्यक्ति दूसरे के व्यवहार, कर्म या चरित्र को नहीं देखता। व्यक्ति दूसरे के बारे में बुरा कहता या सोचता भी नहीं। वह उन्हें स्वयं के रूप में देखता है। ऐसा भाव तभी संभव है जब अन्य के साथ कोई प्रेरित व्यवहार न हो। यदि हम दूसरे से कोई अपेक्षा रखते हैं--जैसे उनसे कोई काम करवाना या उन्हें किसी तरह से नियंत्रित करना--तो </text:span><text:span text:style-name="T204">मैत्री भाव</text:span><text:span text:style-name="T207"> संभव नहीं। यदि हम किसी से कुछ चाहते हों--चाहे वह किसी प्रकार की सहायता हो या उनके चरित्र या व्यवहार में कोई परिवर्तन--और यदि हमारा मनचाहा हमें नहीं मिला, तो स्वाभाविक रूप से हम उनसे दूर हो जाते हैं। जब हमें श्रुति वाक्य पर पूर्ण श्रद्धा होती है कि सभी केवल आत्मा ही हैं, सभी ईश्वर ही है--</text:span><text:span text:style-name="T204">वासुदेव सर्वं</text:span><text:span text:style-name="T207">--और जब हम किसी से कुछ नही चाहते, तब, और केवल तभी </text:span><text:span text:style-name="T204">मैत्री-भाव</text:span><text:span text:style-name="T207"> संभव है। भक्त में एक प्रकार का सम-भाव उत्पन्न हो जाता है, और वह सभी का मित्र हो जाता है। ऐसे बहुत से महात्मा थे जिनके लिए अलगाव या विभाजन का विचार पूरी तरह मिट गया था। लोग स्वामी शिवानंद के सुनहरे हृदय के बारे में मजाकिया टिप्पणी करते थे कि यदि उन्हें जंगल में भी डाल दिया जाए तो वे वहां के जानवरों से दोस्ती कर लेंगे!</text:span></text:p>
-   <text:p text:style-name="P73"><text:span text:style-name="T207"/></text:p>
-   <text:p text:style-name="P202"><text:span text:style-name="T207"><text:tab/><text:tab/><text:tab/><text:tab/>सर्वभूतसुहृच्छान्तो ज्ञानविज्ञाननिश्चयः।</text:span></text:p>
-   <text:p text:style-name="P201"><text:span text:style-name="T212"><text:tab/><text:tab/><text:tab/><text:tab/>पश्यन् मदात्मकं विश्वं न विपद्येत वै पुनः</text:span><text:span text:style-name="T213">॥<text:tab/></text:span><text:span text:style-name="T210">श्री.भा.११.७.२</text:span></text:p>
-   <text:p text:style-name="P201"><text:span text:style-name="T210">ऐसा व्यक्ति स्वाभ</text:span><text:span text:style-name="T207">ाविक ही सभी प्राणियों का मित्र होता है--</text:span><text:span text:style-name="T204">सर्व-भूत-सुहृत </text:span><text:span text:style-name="T207">। यह मित्रता दिव्य होती है। संपूर्ण विश्व को ईश्वर अथवा आत्मा के रूप में देखकर, व्यक्ति स्वयं को चोट नहीं पहुँचाता। अन्य को देखकर राग-द्वेष उत्पन्न होता है; जिसके कारण हम स्वयं को ही चोट पहुँचाते हैं, और शांति असंभव हो जाती है। जब हम सारे विश्व को आत्मा के ही रूप में देखते हैं, तो शांति का राज्य स्थापित हो जाता है।</text:span></text:p>
-   <text:p text:style-name="P201"><text:span text:style-name="T207">बौद्ध ग्रंथों में, बुद्ध को मैत्रेय नाम से भी जाना जाता है--सबका मित्र। ईश्वर </text:span><text:span text:style-name="T204">सर्वभूतसुहृत्</text:span><text:span text:style-name="T207"> हैं--सबके मित्र, और </text:span><text:span text:style-name="T204">ज्ञानी</text:span><text:span text:style-name="T207"> भी सबका मित्र है। उसके भाव में पूर्ण समानता होती है - श्रेष्ठ या निम्न की धारणा अब काम नहीं करती।</text:span></text:p>
-   <text:p text:style-name="P201"><text:span text:style-name="T207"/></text:p>
+   <text:p text:style-name="P73"><text:span text:style-name="T208">इस भागवत श्लोक में &apos;</text:span><text:span text:style-name="T204">मैत्रेय अभिन्नेन चक्षुषा</text:span><text:span text:style-name="T208">’ पद का प्रयोग किया गया है। </text:span><text:span text:style-name="T204">मैत्री भाव</text:span><text:span text:style-name="T208">--अर्थात मित्रता अथवा समदर्शिता मन की एक सुंदर अवस्था है। जब </text:span><text:span text:style-name="T204">मैत्री भाव</text:span><text:span text:style-name="T208"> होता है, तो व्यक्ति दूसरे को स्वयं के रूप में देखता है। ऐसे संबंध मे एक प्रकार की सुलभता होती है। व्यक्ति दूसरे के व्यवहार, कर्म या चरित्र को नहीं देखता। व्यक्ति दूसरे के बारे में बुरा कहता या सोचता भी नहीं। वह उन्हें स्वयं के रूप में देखता है। ऐसा भाव तभी संभव है जब अन्य के साथ कोई प्रेरित व्यवहार न हो। यदि हम दूसरे से कोई अपेक्षा रखते हैं--जैसे उनसे कोई काम करवाना या उन्हें किसी तरह से नियंत्रित करना--तो </text:span><text:span text:style-name="T204">मैत्री भाव</text:span><text:span text:style-name="T208"> संभव नहीं। यदि हम किसी से कुछ चाहते हों--चाहे वह किसी प्रकार की सहायता हो या उनके चरित्र या व्यवहार में कोई परिवर्तन--और यदि हमारा मनचाहा हमें नहीं मिला, तो स्वाभाविक रूप से हम उनसे दूर हो जाते हैं। जब हमें श्रुति वाक्य पर पूर्ण श्रद्धा होती है कि सभी केवल आत्मा ही हैं, सभी ईश्वर ही है--</text:span><text:span text:style-name="T204">वासुदेव सर्वं</text:span><text:span text:style-name="T208">--और जब हम किसी से कुछ नही चाहते, तब, और केवल तभी </text:span><text:span text:style-name="T204">मैत्री-भाव</text:span><text:span text:style-name="T208"> संभव है। भक्त में एक प्रकार का सम-भाव उत्पन्न हो जाता है, और वह सभी का मित्र हो जाता है। ऐसे बहुत से महात्मा थे जिनके लिए अलगाव या विभाजन का विचार पूरी तरह मिट गया था। लोग स्वामी शिवानंद के सुनहरे हृदय के बारे में मजाकिया टिप्पणी करते थे कि यदि उन्हें जंगल में भी डाल दिया जाए तो वे वहां के जानवरों से दोस्ती कर लेंगे!</text:span></text:p>
+   <text:p text:style-name="P73"><text:span text:style-name="T208"/></text:p>
+   <text:p text:style-name="P202"><text:span text:style-name="T208"><text:tab/><text:tab/><text:tab/><text:tab/>सर्वभूतसुहृच्छान्तो ज्ञानविज्ञाननिश्चयः।</text:span></text:p>
+   <text:p text:style-name="P201"><text:span text:style-name="T214"><text:tab/><text:tab/><text:tab/><text:tab/>पश्यन् मदात्मकं विश्वं न विपद्येत वै पुनः</text:span><text:span text:style-name="T215">॥<text:tab/></text:span><text:span text:style-name="T211">श्री.भा.११.७.२</text:span></text:p>
+   <text:p text:style-name="P201"><text:span text:style-name="T211">ऐसा व्यक्ति स्वाभ</text:span><text:span text:style-name="T208">ाविक ही सभी प्राणियों का मित्र होता है--</text:span><text:span text:style-name="T204">सर्व-भूत-सुहृत </text:span><text:span text:style-name="T208">। यह मित्रता दिव्य होती है। संपूर्ण विश्व को ईश्वर अथवा आत्मा के रूप में देखकर, व्यक्ति स्वयं को चोट नहीं पहुँचाता। अन्य को देखकर राग-द्वेष उत्पन्न होता है; जिसके कारण हम स्वयं को ही चोट पहुँचाते हैं, और शांति असंभव हो जाती है। जब हम सारे विश्व को आत्मा के ही रूप में देखते हैं, तो शांति का राज्य स्थापित हो जाता है।</text:span></text:p>
+   <text:p text:style-name="P201"><text:span text:style-name="T208">बौद्ध ग्रंथों में, बुद्ध को मैत्रेय नाम से भी जाना जाता है--सबका मित्र। ईश्वर </text:span><text:span text:style-name="T204">सर्वभूतसुहृत्</text:span><text:span text:style-name="T208"> हैं--सबके मित्र, और </text:span><text:span text:style-name="T204">ज्ञानी</text:span><text:span text:style-name="T208"> भी सबका मित्र है। उसके भाव में पूर्ण समानता होती है - श्रेष्ठ या निम्न की धारणा अब काम नहीं करती।</text:span></text:p>
+   <text:p text:style-name="P201"><text:span text:style-name="T208"/></text:p>
    <text:p text:style-name="P201"><text:soft-page-break/><text:span text:style-name="T139">मैत्री भाव — श्रीराम का उदाहरण</text:span></text:p>
-   <text:p text:style-name="P201"><text:span text:style-name="T211">मैत्री भाव का उत्कृष्</text:span><text:span text:style-name="T207">ट उदाहरण श्रीराम में देखा जा सकता है।</text:span></text:p>
+   <text:p text:style-name="P201"><text:span text:style-name="T212">मैत्री भाव का उत्कृष्</text:span><text:span text:style-name="T208">ट उदाहरण श्रीराम में देखा जा सकता है। जब रावण के भाई विभीषण उनको अप्रत्याशित रूप से मिलने आए, <text:s/>और उनसे कहा &quot;मै</text:span><text:span text:style-name="T213">ं आपका मित्र हूँ,</text:span><text:span text:style-name="T208">” तब श्रीराम ने विभीषण को गले लगाया और उन्हें अपना लिया। जब राम के परिषद के सभी लोगो</text:span><text:span text:style-name="T213">ं ने विभीषण के नीयत पर संदेह किया, तो राम ने कहा, “मैं उसका परित्याग नहीं करुंगा। यदि कोई व्यक्ति मेरे पास आकर कहे कि, &apos;मैं आपका मित्र हूं&apos; तो मैं उसे अवश्य स्वीकार करुंगा, भले ही उसमें कितने भी दोष हों।”</text:span><text:span text:style-name="T208"> यह ऋषियों का उत्तम मार्ग है।</text:span></text:p>
+   <text:p text:style-name="P201"><text:span text:style-name="T208">इस मैत्री-भाव में लोगों के साथ संबंधों की सारी जटिलता</text:span><text:span text:style-name="T213">एँ समाप्त हो जाती हैं। यह एक ऐसी अवस्था है जहां व्यक्ति बहुत हल्केपन के साथ बातचीत करने और जीवन जीने में सक्षम होता है। </text:span><text:span text:style-name="T207">भक्त</text:span><text:span text:style-name="T213"> <text:s/>मधुमक्खी की तरह है। वह जहाँ भी जाता है, जिससे भी मिलता है, वह उस संबंध से केवल आत्मानुभूति की मधु का पान करता है। वह कभी भी अपने व्यक्तित्व का भार दूसरों पर नहीं डालता। वह इतने धीरे से आकर बैठता है कि उसके अस्तित्व का कोई बाहरी प्रभाव नहीं दीखता। परंतु उससे जो शांति उमड़ कर आती है, वह सभी को आनंद में घेर लेती है। यही कारण है कि भगवान-शंकराचार्य कहते हैं कि यह केवल एक </text:span><text:span text:style-name="T207">संन्यासी</text:span><text:span text:style-name="T213"> के लिए ही संभव है। यहाँ संन्यासी का तात्पर्य केवल साधु या भिक्षु से नही, अपितु पूर्ण त्यागी से है, जिसकी कोई इच्छा नहीं है, जो ज्ञानी है।</text:span></text:p>
+   <text:p text:style-name="P201"><text:span text:style-name="T213">सच्चे मित्र में एक दुर्लभ सौंदर्य होता है—जब उसकी जरूरत होती है, तो वह एक समर्पित मित्र होता है, और दूसरे समयों पर वह अलग-थलग रहता है।</text:span></text:p>
    <text:h text:style-name="P46" text:outline-level="3"><text:span text:style-name="T166">१२</text:span><text:span text:style-name="T169">.</text:span><text:span text:style-name="T166">१७</text:span></text:h>
    <text:p text:style-name="P42">यो न हृष्यति न द्वेष्टि न शोचति न काङ्क्षति ।</text:p>
    <text:p text:style-name="P42">शुभाशुभपरित्यागी भक्तिमान्यः स मे प्रियः ॥</text:p>
