@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2024-06-11T11:58:31.948196308</meta:creation-date><dc:date>2024-07-08T11:00:31.368791087</dc:date><meta:editing-duration>P3DT6H11M1S</meta:editing-duration><meta:editing-cycles>710</meta:editing-cycles><meta:generator>LibreOffice/7.3.7.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="40" meta:paragraph-count="495" meta:word-count="26257" meta:character-count="87007" meta:non-whitespace-character-count="61041"/></office:meta>
+ <office:meta><meta:creation-date>2024-06-11T11:58:31.948196308</meta:creation-date><dc:date>2024-07-08T12:50:14.849596738</dc:date><meta:editing-duration>P3DT7H59M33S</meta:editing-duration><meta:editing-cycles>717</meta:editing-cycles><meta:generator>LibreOffice/7.3.7.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="40" meta:paragraph-count="501" meta:word-count="26428" meta:character-count="87578" meta:non-whitespace-character-count="61441"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">886903</config:config-item>
-   <config:config-item config:name="ViewAreaLeft" config:type="long">1371</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">19276</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">17648</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">898121</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">1981</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">14392</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">14228</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">false</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">3942</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">897761</config:config-item>
-     <config:config-item config:name="VisibleLeft" config:type="long">1371</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">886903</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">20645</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">904549</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">10359</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">904535</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">1981</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">898121</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">16371</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">912347</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -88,7 +88,7 @@
    <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">5535747</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">5642138</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
@@ -1754,9 +1754,25 @@
   </style:style>
   <style:style style:name="P373" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#980000" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Lohit Devanagari" fo:font-size="12pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="0046043e" officeooo:paragraph-rsid="00547803" style:text-blinking="false" fo:background-color="transparent" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lohit Devanagari" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Lohit Devanagari" fo:font-size="12pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00532459" officeooo:paragraph-rsid="0056179a" style:text-blinking="false" fo:background-color="transparent" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lohit Devanagari" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="P374" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Lohit Devanagari" fo:font-size="12pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" officeooo:rsid="00532459" officeooo:paragraph-rsid="0056179a" style:text-blinking="false" fo:background-color="transparent" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Lohit Devanagari" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P375" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Lohit Devanagari" fo:font-size="12pt" fo:font-style="italic" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00532459" officeooo:paragraph-rsid="0056179a" style:text-blinking="false" fo:background-color="transparent" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Lohit Devanagari" style:font-size-complex="11pt" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P376" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#980000" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Lohit Devanagari" fo:font-size="12pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="0046043e" officeooo:paragraph-rsid="00547803" style:text-blinking="false" fo:background-color="transparent" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lohit Devanagari" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P377" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#980000" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Lohit Devanagari" fo:font-size="12pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00221a9f" officeooo:paragraph-rsid="0056179a" style:text-blinking="false" fo:background-color="transparent" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lohit Devanagari" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P378" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="100%" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#980000" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Lohit Devanagari" style:text-underline-style="none" officeooo:paragraph-rsid="00547803" style:text-blinking="false" fo:background-color="transparent" style:font-name-complex="Lohit Devanagari" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
@@ -2540,6 +2556,9 @@
   <style:style style:name="T260" style:family="text">
    <style:text-properties officeooo:rsid="00547803"/>
   </style:style>
+  <style:style style:name="T261" style:family="text">
+   <style:text-properties officeooo:rsid="0056179a"/>
+  </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.278in" style:layout-grid-ruby-height="0.139in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in" loext:margin-gutter="0in">
     <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
@@ -3094,10 +3113,20 @@
    <text:p text:style-name="P338"><text:span text:style-name="T117">उद्वेग</text:span> किसी भी प्रकार की प्रबल प्रेरणा को कहते हैं जो हमें कार्य करने के लिए बाध्य करती है। &apos;<text:span text:style-name="T133">उद् </text:span>&apos; का अर्थ है उठना, और वेग का अर्थ है गति। यहाँ यह चित्त की तीव्र गति, अथवा मनोवेग को दर्शाता है। जब संसार हमें कुछ करने के लिए मजबूर करता है, तो हम प्रतिक्रिया करते हैं। जब तक दुनिया का हम पर प्रभाव रहेगा, तब तक योग का विकास नहीं हो सकता। सच्चा योगी दुनिया से प्रभावित नहीं होता। दुनिया जो कुछ भी उसके पास भेजती है, योगी उसे निगल कर पचा लेता है। हमने दूसरे अध्याय के श्लोक में देख चुके हैं, ‘जैसे नदियां समुद्र में विलीन हो जाती हैं, वैसे ही सारे मानसिक उत्सर्जन, सारी भावनाएँ जो दुनिया के संवेदी संकेतों से उत्पन्न होते हैं, उन सब को योगी अपनी ज्ञान शक्ति के द्वारा निगल कर पचा लेता है।&apos; इसका अर्थ है कि योगी में कोई <text:span text:style-name="T133">उद्वेग</text:span> नहीं है।</text:p>
    <text:p text:style-name="P338">जब तक हम हमारे भीतर का वह केंद्र नहीं ढू<text:span text:style-name="T260">ंढ लेते हो किसी भी चीज से प्रभावित नहीं होता, जब तक हम यह नहीं जान लेते कि हम यह शरीर, मन या अहंकार नहीं हैं, कि हम शुद्ध चैतन्य हैं, ऐसी समावस्था असंभव है। जब मन सत्य के उस क्षेत्र में प्रवेश करता है, तो संसार एक मृगतृष्णा के समान अवास्तविक दिखता है। उसके पश्चात संसार की किसी भी शक्ति का हम पर कोई प्रभाव नहीं हो सकता।</text:span></text:p>
    <text:h text:style-name="P371" text:outline-level="3"><text:span text:style-name="T182">१२</text:span><text:span text:style-name="T187">.</text:span><text:span text:style-name="T182">१</text:span><text:span text:style-name="T184">६</text:span></text:h>
-   <text:p text:style-name="P374">अनपेक्ष शुचिर्दक्ष उदासीनो गतव्यथः ।</text:p>
-   <text:p text:style-name="P373"><text:span text:style-name="T174">सर्वारम्भपरित्यागी यो मद्भक्तः स मे प्रियः ॥</text:span></text:p>
+   <text:p text:style-name="P378">अनपेक्ष शुचिर्दक्ष उदासीनो गतव्यथः ।</text:p>
+   <text:p text:style-name="P376"><text:span text:style-name="T174">सर्वारम्भपरित्यागी यो मद्भक्तः स मे प्रियः ॥</text:span></text:p>
+   <text:p text:style-name="P376"/>
+   <text:p text:style-name="P376">मेरा भक्त, जिसे किसी भी वस्तु की अपेक्षा नही<text:span text:style-name="T260">ं है, जो शुद्ध और कौशलपूर्ण है, बेफिक्र है, परेशान नहीं है, और जिसने सभी नए प्रयासों को त्याग दिया है, वह मुझे अत्यंत प्रिय है</text:span>।</text:p>
+   <text:p text:style-name="P376"/>
+   <text:p text:style-name="P373"><text:span text:style-name="T117">अनपेक्षः</text:span>—वह सभी इच्छाओं से मुक्त है। उसका मन किसी वस्तु, व्यक्ति या भावना के पीछे नही<text:span text:style-name="T261">ं भागता। वह पूर्णता में जीता है, भले ही उसके पास कुछ भी न हो। भगवान श्रीमद्भागवद् में ऐसे भक्त के विषय में कहते हैं,</text:span></text:p>
    <text:p text:style-name="P373"/>
-   <text:p text:style-name="P373">मेरा भक्त, ।</text:p>
+   <text:p text:style-name="P373"><text:tab/><text:tab/><text:tab/><text:tab/><text:span text:style-name="T104">निरपेक्षं मुनिं शान्तं निर्वैरं समदर्शनम्।</text:span></text:p>
+   <text:p text:style-name="P374"><text:tab/><text:tab/><text:tab/><text:tab/>अनुव्रजाम्यहं नित्यं पूयेयेत्यङ्घ्रिरेणुभिः॥</text:p>
+   <text:p text:style-name="P375">वह मुनि जो किसी भी वस्तु की इच्छा नही<text:span text:style-name="T261">ं रखता, जो सदा शांत है, किसी से बैर नहीं रखता, सबको सम दृष्टि से देखता है—मैं उसके पीछे-पीछे चलता हूँ ताकि मैं उसके चरणों की धूल से शुद्ध हो जाऊँ।</text:span></text:p>
+   <text:p text:style-name="P373"/>
+   <text:p text:style-name="P377">ज्ञानी की स्वतंत्रता</text:p>
+   <text:p text:style-name="P373">एक बार, रमण महर्षि के महा तपस्वी शिष्य काव्यकंठ-गणपति-मुनि ने महर्षि से कहा, “शरीर के निर्वाह के लिये बहुत थोडी से चीजे<text:span text:style-name="T261">ं</text:span>, और बहुत कम पैसे ही लगते है<text:span text:style-name="T261">ं।</text:span>” महर्षि ने मुस्कुराते हुए कहा, “यदि तुम आत्मा को जान लो, तो बिना शरीर के भी रह सकते हो।”</text:p>
+   <text:p text:style-name="P373"/>
    <text:h text:style-name="P47" text:outline-level="3"><text:span text:style-name="T182">१२</text:span><text:span text:style-name="T187">.</text:span><text:span text:style-name="T182">१७</text:span></text:h>
    <text:p text:style-name="P43">यो न हृष्यति न द्वेष्टि न शोचति न काङ्क्षति ।</text:p>
    <text:p text:style-name="P43">शुभाशुभपरित्यागी भक्तिमान्यः स मे प्रियः ॥</text:p>
